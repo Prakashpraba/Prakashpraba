@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on RR Donnelley<br>👯 I’m looking to collaborate on AI/ML Developers<br>🌱 I’m currently learning about Office Web Addins using Office.js for creating An AI infused Addins foor Office applications.
+is an Aspiring DataScientist.
+🔭 I’m currently working on RR Donnelley as a DataScience Intern<br>👯 I’m looking to collaborate on AI/ML Developers<br>🌱 I’m currently learning about Office Web Addins using Office.js for creating An AI infused Addins for Office applications.<br> 
 
 
 ## 🌐 Socials:
